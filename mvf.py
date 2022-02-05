@@ -1,3 +1,7 @@
+#Automation of files to certain folder
+#Files must start with the numbers 0 to 9 to be directed to certain folder
+#Ideal for basic files
+
 import os
 import shutil
 
