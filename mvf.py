@@ -5,8 +5,8 @@
 import os
 import shutil
 
-srcPath = r'\Users\artur\Desktop\all\python_files\\'
-dstPath = r'\Users\artur\Desktop\all\python_files\basic_files\\'
+srcPath = r'\Users\name\path\\'
+dstPath = r'\Users\name\new\path\\'
 
 list = os.listdir(srcPath)
 
